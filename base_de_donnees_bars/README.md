@@ -7,3 +7,5 @@ Le projet final implique le développement d'une base de données pour la gestio
 La base de données est élaborée à partir des fichiers CSV du répertoire "data".
 
 La première étape (script exercice1.py) est la génération de la BDD : son exécution produit le fichier bars.db en sortie.
+
+Chaque script (exercice) contient des requêtes pour interroger la base de données et récupérer des informations spécifiques.
