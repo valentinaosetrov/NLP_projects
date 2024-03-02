@@ -1,0 +1,7 @@
+FR:2:1:4 "Please conjugate the verb "réussir" in the given tense "passé composé" tense":
+1. j'...:j'#ai réussi#
+2. tu ...:tu #as réussi#
+3. il/elle/on ...:il/elle/on #a réussi#
+4. nous ...:nous #avons réussi#
+5. vous ...:vous #avez réussi#
+6. ils/elles ...:ils/elles #ont réussi#

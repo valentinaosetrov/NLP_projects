@@ -1,0 +1,7 @@
+FR:1:1:4 "Please conjugate the verb "réussir" in the given tense "present" tense":
+1. je ...:je #réussis#
+2. tu ...:tu #réussis#
+3. il/elle/on ...:il/elle/on #réussit#
+4. nous ...:nous #réussissons#
+5. vous ...:vous #réussissez#
+6. ils/elles ...:ils/elles #réussissent#

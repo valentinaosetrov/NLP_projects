@@ -1,0 +1,8 @@
+student1:passwords1:Valentina:Osetrov
+student2:passwords2:Taylor:Swift
+student3:passwords3:Britney:Spears
+student4:passwords4:Emily:Waldorf
+student5:passwords5:Beatrice:Vanderbilt
+student6:passwords6:Betty:Lively
+student7:passwords7:Blake:Teller
+student8:passwords8:Bethany:Simon

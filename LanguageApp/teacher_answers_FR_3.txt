@@ -1,0 +1,7 @@
+FR:3:1:4 "Please conjugate the verb "réussir" in the given tense "conditionnel passé" tense":
+1. j'...:j'#aurais réussi#
+2. tu ...:tu #aurais réussi#
+3. il/elle/on ...:il/elle/on #aurait réussi#
+4. nous ...:nous #aurions réussi#
+5. vous ...:vous #auriez réussi#
+6. ils/elles ...:ils/elles #auraient réussi#

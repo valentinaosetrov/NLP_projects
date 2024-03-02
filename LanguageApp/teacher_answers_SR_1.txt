@@ -1,0 +1,7 @@
+SR:1:1:4 "Please conjugate the verb "raditi" in the given tense "prezent" tense":
+1. ja ...:ja #radim#
+2. ti ...:ti #radiš#
+3. on/ona/ono ...:on/ona/ono #radi#
+4. mi ...:mi #radimo#
+5. vi ...:vi #radite#
+6. oni/one/ona ...:oni/one/ona #rade#
